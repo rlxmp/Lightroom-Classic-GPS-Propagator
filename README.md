@@ -51,10 +51,3 @@ This plugin is released under the **GPL v2 or later** license.
 See the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 🤝 Contributing
-
-Pull requests and feature suggestions are welcome!  
-If you encounter bugs, please open an issue with reproduction steps and Lightroom version info.
-
----
